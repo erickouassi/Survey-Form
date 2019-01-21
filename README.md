@@ -1,2 +1,1 @@
-https://github.com/erickouassi/Survey-Form
-
+https://erickouassi.github.io/Survey-Form/
